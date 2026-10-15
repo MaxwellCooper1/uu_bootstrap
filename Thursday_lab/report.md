@@ -14,7 +14,7 @@ Table 1: Success rates by treatment group
 | Lifestyle | 234 | 125 | 53.4% |
 
 
-*Figure 1. Bootstrapped KDE (left) and ECDF (right) of each arm's success rate, 10,000 replications.*
+*Figure 1: Bootstrapped KDE and ECDF of each group's success rate (10,000 replications)*
 ![Figure 1: Bootstrapped success rates by treatment arm](./src/p2q3_success_rates.png)
 
 
@@ -30,7 +30,7 @@ Table 2: Pairwise ATE's and percentile bootstrap confidence intervals
 | Rosiglitazone − Lifestyle | +0.08 | [0.003, 0.152] | [−0.010, 0.169] | [−0.036, 0.195] | Only 10% confidence level |
 
 
-*Figure 2. Bootstrapped KDE (left) and ECDF (right) of the three pairwise ATEs.*
+*Figure 2: Bootstrapped KDE and ECDF of the three pairwise ATE's*
 ![Figure 2: Bootstrapped pairwise ATEs](./src/p2q4_ates.png)
 
 
